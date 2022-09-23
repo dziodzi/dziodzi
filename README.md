@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ### Я ЛЮБЛЮ КОГДА ВОЛОСАТЫЕ МУЖИКИ ОБМАЗЫВАЮТСЯ МАСЛОМ!
 -->
 - 🌱 I’m currently learning JavaScript, CSS and HTML
-- 📫 How to reach me: 
+- 📫 My contacts: 
   - TG: [@dziodzi](https://t.me/Dziodzi)
   - VK: [@dziodzi](http://vk.com/dziodzi)
