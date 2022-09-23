@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning JavaScript, CSS and HTML
 - 📫 How to reach me: 
-  - Telegram: @dziodzi
-  - Vk: [@dziodzi](vk.com/dziodzi)
+  - Telegram: [@dziodzi](http://tg.me/dziodzi)
+  - VK: [@dziodzi](http://vk.com/dziodzi)
