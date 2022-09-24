@@ -1,5 +1,4 @@
 <!--
-### Hi there 👋
 
 
 **Dziodzi/Dziodzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ### Я ЛЮБЛЮ КОГДА ВОЛОСАТЫЕ МУЖИКИ ОБМАЗЫВАЮТСЯ МАСЛОМ!
 -->
+
+
+
+
+### Hello there 👋
+- ✨ My name is Gregory, I am 3rd year student in ITMO University 
+- 📫 I'm studying in the educational direction "information systems and technologies"
 - 🌱 I’m currently learning JavaScript, CSS and HTML
+- 💬 I'm fluent in Russian and English
 - 📫 My contacts: 
   - TG: [@dziodzi](https://t.me/Dziodzi)
   - VK: [@dziodzi](http://vk.com/dziodzi)
