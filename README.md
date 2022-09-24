@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - 📫 My contacts: 
   - TG: [@dziodzi](https://t.me/Dziodzi)
   - VK: [@dziodzi](http://vk.com/dziodzi)
-
-<img src="https://ie.wampi.ru/2022/09/24/1aa2d5dcf28fed0410229c61c3bc4e79.png" alt="1aa2d5dcf28fed0410229c61c3bc4e79.png" border="0">
+ 
+<img src="https://im.wampi.ru/2022/09/24/wp11021145.jpg" alt="wp11021145.jpg" border="0">
