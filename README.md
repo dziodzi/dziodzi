@@ -28,4 +28,6 @@ Here are some ideas to get you started:
   - TG: [@dziodzi](https://t.me/Dziodzi)
   - VK: [@dziodzi](http://vk.com/dziodzi)
  
+-  ⚡ [My CV (Russian)](https://spb.hh.ru/applicant/resumes/view?resume=7b7b3f90ff0b26944b0039ed1f6356626d6d63) 
+ 
 <img src="https://im.wampi.ru/2022/09/24/wp11021145.jpg" alt="wp11021145.jpg" border="0">
