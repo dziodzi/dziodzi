@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Hello there 👋
 - ✨ My name is Gregory, I am 3rd year student in ITMO University 
 - 📫 I'm studying in the educational direction "Information systems and technologies"
-- 🌱 I’m currently learning JavaScript, CSS and HTML
+- 🌱 I’m currently learning Vue.js and Adobe Photoshop
 - 💬 I'm fluent in Russian and English
 - 📫 My contacts: 
   - TG: [@dziodzi](https://t.me/Dziodzi)
