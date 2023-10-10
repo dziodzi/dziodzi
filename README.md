@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ### Hello there 👋
-- ✨ My name is Gregory, I am 4rd year student in ITMO University 
+- ✨ My name is Gregory, I am 4th year student in ITMO University 
 - 📫 I'm studying in the educational direction "Information systems and technologies"
 - 🌱 I’m currently learning Vue.js and .NET
 - 💬 I'm fluent in Russian and English
