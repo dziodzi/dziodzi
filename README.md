@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 ### Hello there 👋
 - ✨ My name is Gregory, I am 4th year student in ITMO University 
 - 📫 I'm studying in the educational direction "Information systems and technologies"
-- 🌱 I’m currently learning Vue.js and .NET
+- 🌱 I’m currently learning Vue.js
 - 💬 I'm fluent in Russian and English
 - 📫 My contacts: 
   - TG: [@dziodzi](https://t.me/Dziodzi)
   - VK: [@dziodzi](http://vk.com/dziodzi)
  
--  ⚡ [My CV (Russian)](https://spb.hh.ru/resume/7b7b3f90ff0b26944b0039ed1f6356626d6d63) 
- 
-<img src="https://im.wampi.ru/2022/09/24/wp11021145.jpg" alt="wp11021145.jpg" border="0">
+-  ⚡ [My CV (Russian)](https://drive.google.com/file/d/1RxFZ_j4b23q9nlCBQPMZ1KksYf7VDre7/view?usp=sharing)
+
+![image](https://github.com/Dziodzi/Dziodzi/assets/79766495/392e1eba-3db2-4fb8-a2ac-6693c820fdc7)
+
