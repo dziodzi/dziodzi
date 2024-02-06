@@ -30,5 +30,3 @@ Here are some ideas to get you started:
  
 -  ⚡ [My CV (Russian)](https://drive.google.com/file/d/1RxFZ_j4b23q9nlCBQPMZ1KksYf7VDre7/view?usp=sharing)
 
-![Шатинский_CV](https://github.com/Dziodzi/Dziodzi/assets/79766495/9cf676b0-8d17-4195-b199-b280fe459780)
-
