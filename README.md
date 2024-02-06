@@ -30,3 +30,5 @@ Here are some ideas to get you started:
  
 -  ⚡ [My CV (Russian)](https://drive.google.com/file/d/1RxFZ_j4b23q9nlCBQPMZ1KksYf7VDre7/view?usp=sharing)
 
+![image](https://github.com/Dziodzi/Dziodzi/assets/79766495/a7479dca-49a6-483d-883d-4e69a0f7a2af)
+
