@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - 💬 I'm fluent in Russian and English
 - 📫 My contacts: 
   - TG: [@dziodzi](https://t.me/Dziodzi)
-  - VK: [@dziodzi](http://vk.com/dziodzi)
  
 -  ⚡ [My CV (Russian)](https://drive.google.com/file/d/1RxFZ_j4b23q9nlCBQPMZ1KksYf7VDre7/view?usp=sharing)
 
