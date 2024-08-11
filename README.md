@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 ### Hello there 👋
 - ✨ My name is Gregory, I am 4th year student in ITMO University 
 - 📫 I'm studying in the educational direction "Information systems and technologies"
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Micronaut Framework and Reactor Core
 - 💬 I'm fluent in Russian and English
 - 📫 My contacts: 
   - TG: [@dziodzi](https://t.me/Dziodzi)
- 
--  ⚡ [My CV (Russian)](https://drive.google.com/file/d/1RxFZ_j4b23q9nlCBQPMZ1KksYf7VDre7/view?usp=sharing)
 
