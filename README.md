@@ -16,14 +16,26 @@ Here are some ideas to get you started:
 ### Я ЛЮБЛЮ КОГДА ВОЛОСАТЫЕ МУЖИКИ ОБМАЗЫВАЮТСЯ МАСЛОМ!
 -->
 
+# Hello there 👋
+Welcome to my GitHub! I'm Gregory, ITMO University student.
 
+## About Me
+### 🎓 Current Status:
+I am currently a 1st-year Master's student, pursuing a degree in Programming and Internet Technologies.
+### 📚 Previous Education:
+I completed my Bachelor's degree in Software Engineering at the same university.
+### 🌍 Languages
+💬 I am fluent in both Russian and English
 
+## 💻 What I'm Working On
+### 🌱 Currently Learning:
+I'm currently working on active Java applications, in a technology stack that includes:
+* **Netty:** An asynchronous event-driven network application framework for high-performance network applications.
+* **Micronaut Framework:** JVM-based full-stack framework for building modular, easily testable microservices and serverless applications.
+* **Reactor Core:** A powerful reactive programming library for building non-blocking applications, fully integrated with the Reactive Streams specification.
 
-### Hello there 👋
-- ✨ My name is Gregory, I am 4th year student in ITMO University 
-- 📫 I'm studying in the educational direction "Information systems and technologies"
-- 🌱 I’m currently learning Micronaut Framework and Reactor Core
-- 💬 I'm fluent in Russian and English
-- 📫 My contacts: 
-  - TG: [@dziodzi](https://t.me/Dziodzi)
+---
 
+## 📫 Get in Touch
+Feel free to reach out to me through any of the platforms below:
+Telegram: [@dziodzi](https://t.me/Dziodzi)
