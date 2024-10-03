@@ -38,4 +38,4 @@ I'm currently working on active Java applications, in a technology stack that in
 
 ## 📫 Get in Touch
 Feel free to reach out to me through any of the platforms below:
-Telegram: [@dziodzi](https://t.me/Dziodzi)
+* Telegram: [@dziodzi](https://t.me/Dziodzi)
