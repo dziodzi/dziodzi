@@ -47,14 +47,11 @@ Here are the main tools and technologies I work with:
 - **Monitoring and Observability:** Jaeger, Prometheus, Grafana, VisualVM  
 - **Utilities:** Lombok, SLF4J  
 
-Feel free to explore my repositories or reach out to collaborate!
-
-
 ## 📊 &nbsp;Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dziodzi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dziodzi&layout=donut-vertical&theme=transparent)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dziodzi&hide=issues,prs&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=dziodzi&hide=issues,prs&show_icons=true&theme=transparent)
 
 
 ## 🔗 &nbsp;📫 Get in Touch
