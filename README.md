@@ -49,10 +49,7 @@ Here are the main tools and technologies I work with:
 
 ## 📊 &nbsp;Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dziodzi&layout=donut-vertical&theme=transparent)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=dziodzi&hide=issues,prs&show_icons=true&theme=transparent)
-
 
 ## 🔗 &nbsp;📫 Get in Touch
 Feel free to reach out to me through any of the platforms below:
