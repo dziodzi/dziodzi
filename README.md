@@ -49,6 +49,8 @@ Here are the main tools and technologies I work with:
 
 ## 📊 &nbsp;Stats
 
+![Languages Rate](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut-vertical&username=dziodzi)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=dziodzi&hide=issues,prs&show_icons=true&theme=transparent)
 
 ## 🔗 &nbsp;📫 Get in Touch
