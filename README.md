@@ -58,4 +58,4 @@ Feel free to reach out to me through any of the platforms below:
 
 [<img align="left" alt="dziodzi | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 
-[telegram]: [@dziodzi](https://t.me/Dziodzi)
+[telegram]: https://t.me/dziodzi
