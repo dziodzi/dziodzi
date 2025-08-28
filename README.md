@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 Welcome to my GitHub! I'm **Grigoriy Shatinskiy**, a student of the [Information Technologies and Programming](https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm) department at the [ITMO University](https://en.itmo.ru/en/) in St. Petersburg, Russia.
 
 - 🎓 **ITMO Bachelor's degree graduate** in *Information Systems and Technologies*  
-- 👨🏻‍💼 **First-year ITMO master’s student** in *Information Technologies and Programming*  
-- 💻 **Backend Java developer**  
+- 👨🏻‍💼 **Second-year ITMO master’s student** in *Information Technologies and Programming*  
+- 💻 **Backend Java developer in TBank (ex. Tinkoff)**
 - 🎥 Interested in **photo and video editing**  
-- 🧑‍🏫 Teach the **basics of Python programming** at ITMO University  
+- 🧑‍🏫 Teach the **basics of Python programming**, **Mobile developing for Android** and **Java developing** at ITMO University  
 - 🏓 Played **table tennis** for 8 years  
 
 ## 💻 Technology Stack  
